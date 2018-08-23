@@ -1,4 +1,4 @@
 Class Sandeep
 {
-
+int rollno;
 }
